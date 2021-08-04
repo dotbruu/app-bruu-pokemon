@@ -33,7 +33,7 @@ Instale as dependências
 
 #### Como Utilizar?
 
-A api três rotas, 01 para upload do arquivo excel, 01 para listagem de todos os pokemons e 01 para pesquisar algum pokemon.
+A api contem três rotas, 01 para upload do arquivo excel, 01 para listagem de todos os pokemons e 01 para pesquisar algum pokemon.
 
 ##### Upload do Arquivo
 
@@ -45,7 +45,7 @@ Use a rota com método POST para subir o arquivo .xlsx atráves do método multi
 
 ##### Listagem de todos os pokemons
 
-Utilize a rota com método GET para listar todos os pokemons, adicione parâmetros como limit ou skip.
+Utilize a rota com método GET para listar todos os pokemons, adicione parâmetros como limit e skip.
 
 ```
   GET / http://localhost:3333/search?limit=10&skip=0
