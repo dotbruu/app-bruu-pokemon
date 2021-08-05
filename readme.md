@@ -4,6 +4,9 @@
   <img src="https://uploaddeimagens.com.br/images/003/367/422/full/Grupo_59.png?1628118904" />
 </p>
 
+### Sobre
+O desafio deste projeto foi pegar uma planilha excel subir os dados no servidor NodeJS e converter para json, salvar no banco de dados mongoDB e listar no frontend com ReactJS, a listagem dos pokemons utiliza scroll infinito.
+
 ### Backend
 
 #### Tecnologias
